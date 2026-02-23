@@ -2,6 +2,7 @@
 An end-to-end real-time data ingestion and processing pipeline built using Azure Event Hubs and Databricks. This project demonstrates high-velocity telemetry data processing with PySpark Structured Streaming and Delta Lake for reliable and scalable analytics.
 
 Project Overview
+
 This project demonstrates an end-to-end real-time data engineering solution designed to ingest, process, and store high-velocity telemetry data. It leverages a modern lakehouse architecture to ensure low-latency data availability for downstream analytics and business intelligence.
 Tech Stack
 Ingestion: Azure Event Hubs
